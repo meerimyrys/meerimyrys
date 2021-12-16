@@ -1,5 +1,5 @@
 - ### Hi there 👋, I'm Meerim
-#### Web Developer
+#### 
 Love to learn new skills and Now learning Javascript
 
 Skills:  HTML / CSS
